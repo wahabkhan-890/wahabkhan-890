@@ -1,151 +1,287 @@
-<h1 align="left">Hey 👋 I'm Wahab Khan</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdul+Wahab+Khan+Mangal;+Full-Stack+Engineer;MERN+%7C+Next.js+%7C+TypeScript;System+Design+%7C+Clean+Architecture;" />
+</h1>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammadumar-codes&label=Profile+Views&color=6366f1&style=flat" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-FAANG%20Ready-f59e0b?style=flat" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Pakistan%20%F0%9F%87%B5%F0%9F%87%B0-6366f1?style=flat" />
+</p>
 
-<p align="left">Full-Stack Engineer | MERN Stack <br>Developer | Future FAANG-Level <br>Engineer</p>
+---
 
-###
+## 💡 About Me
 
-<h2 align="left">About me</h2>
+I am a **Full-Stack Engineer** specializing in the **MERN stack + Next.js**, focused on building **scalable, high-performance, production-grade web applications**. I follow **clean architecture, SOLID principles, and modern engineering standards** while continuously leveling up toward FAANG-caliber engineering.
 
-###
+```typescript
+const wahabkhan-890 = {
+  role:      "Full-Stack Engineer",
+  stack:     ["MongoDB", "Express", "React", "Node.js", "Next.js", "TypeScript"],
+  focus:     ["System Design", "Scalable Architecture", "Clean Code", "DSA"],
+  learning:  ["AWS", "Docker", "Microservices", "Kubernetes"],
+  goal:      "FAANG-Level Engineer , World Class Engineer ",
+  email:     "wahabkhan9605@gmail.com",
+  available:  true,
+};
+```
 
-<p align="left">💡 About Me<br><br>I am a **Full-Stack Engineer** specializing in the **MERN Stack + Next.js**, passionate about building **scalable, high-performance, production-grade applications**.<br><br>I focus on writing **clean, maintainable code** while following **SOLID principles, clean architecture, and modern engineering practices**. Currently leveling up toward becoming a **FAANG-level software engineer** through deep learning in **system design, scalable backend architecture, DevOps, and DSA**.<br><br>```html id="ck1x1r"<br><pre><br><code><br><span style="color:red;">const</span> <span style="color:red;">wahabKhan</span> = {<br><br>  <span style="color:red;">role</span>: <br>  <span style="color:deepskyblue;">"Full-Stack Engineer"</span>,<br><br>  <span style="color:red;">stack</span>: [<br>    <span style="color:deepskyblue;">"MongoDB"</span>,<br>    <span style="color:deepskyblue;">"Express.js"</span>,<br>    <span style="color:deepskyblue;">"React.js"</span>,<br>    <span style="color:deepskyblue;">"Node.js"</span>,<br>    <span style="color:deepskyblue;">"Next.js"</span>,<br>    <span style="color:deepskyblue;">"TypeScript"</span><br>  ],<br><br>  <span style="color:red;">focus</span>: [<br>    <span style="color:deepskyblue;">"System Design"</span>,<br>    <span style="color:deepskyblue;">"Scalable Architecture"</span>,<br>    <span style="color:deepskyblue;">"Clean Code"</span>,<br>    <span style="color:deepskyblue;">"DSA"</span><br>  ],<br><br>  <span style="color:red;">learning</span>: [<br>    <span style="color:deepskyblue;">"AWS"</span>,<br>    <span style="color:deepskyblue;">"Docker"</span>,<br>    <span style="color:deepskyblue;">"Microservices"</span>,<br>    <span style="color:deepskyblue;">"Kubernetes"</span><br>  ],<br><br>  <span style="color:red;">goal</span>: <br>  <span style="color:deepskyblue;">"World-Class Software Engineer"</span>,<br><br>  <span style="color:red;">email</span>: <br>  <span style="color:deepskyblue;">"wahabkhan9630@gmail.com"</span>,<br><br>  <span style="color:red;">availableForWork</span>: <br>  <span style="color:deepskyblue;">true</span><br><br>};<br></code><br></pre><br>```<br><br>* 🔭 Building **full-stack applications, REST APIs & scalable backend systems**<br>* 🌱 Deepening expertise in **TypeScript, Next.js 14, AWS & DevOps**<br>* 📐 Practicing **System Design** — scalability, caching, queues & distributed systems<br>* 🧠 Improving **DSA & problem-solving** — LeetCode patterns, graphs & complexity analysis<br>* 🎥 Sharing knowledge on **YouTube** — projects, tutorials & engineering concepts<br>* 🎯 Goal: Work at a **world-class engineering company**<br>* 📫 Email: **[wahabkhan9630@gmail.com](mailto:wahabkhan9630@gmail.com)**</p>
+- 🔭 Building **full-stack apps, REST APIs & distributed systems**
+- 🌱 Deepening skills in **TypeScript, Next.js 14, AWS & DevOps**
+- 📐 Practicing **System Design** — scalability, caching, messaging queues
+- 🧠 Sharpening **DSA** — LeetCode patterns, Big-O analysis, graph algorithms
+- 🎯 Goal: Land a **top-tier engineering role** at a world-class company
+- 📫 Email: **wahabkhan9605@gmail.com**
 
-###
+---
 
-<h2 align="left">Skils</h2>
+## 🌐 Connect With Me
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jest" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wahabkhan-890/wahabkhan-890/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wahabkhan-890/wahabkhan-890/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wahabkhan-890/wahabkhan-890/pacman-output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/wahabkhan-890/wahabkhan-890/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/wahabkhan-890/wahabkhan-890/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<p align="left"># 🚀 Featured Projects<br><br>## 🛒 Enterprise E-Commerce Platform — Full-Stack<br><br>High-performance MERN e-commerce platform with secure authentication, real-time inventory tracking, Stripe payments, admin analytics dashboard, and role-based access control.<br><br>**Tech Stack:**<br>`React` `Node.js` `MongoDB` `Redux Toolkit` `Stripe` `JWT` `TailwindCSS`<br><br>---<br><br>## 🔐 Authentication & API Infrastructure — Backend<br><br>Production-ready backend architecture with JWT authentication, refresh tokens, RBAC, API security, Redis caching, rate limiting, and scalable REST APIs.<br><br>**Tech Stack:**<br>`Express.js` `PostgreSQL` `Redis` `JWT` `OAuth 2.0` `Docker` `Jest`<br><br>---<br><br>## ⚡ SaaS Management Platform — Full-Stack<br><br>Modern SaaS application built with Next.js App Router, Server Components, optimized rendering strategies, subscription billing, and scalable database architecture.<br><br>**Tech Stack:**<br>`Next.js 14` `TypeScript` `Prisma ORM` `PostgreSQL` `Stripe` `Vercel`<br><br>---<br><br>## 💬 Real-Time Messaging System — Full-Stack<br><br>Real-time communication platform featuring private chats, group rooms, online presence tracking, media sharing, and persistent message storage.<br><br>**Tech Stack:**<br>`Socket.io` `React.js` `Node.js` `MongoDB` `Redis` `JWT`<br><br>---<br><br>## 📦 Reusable UI Component Library — Frontend<br><br>Modern and accessible React component system with reusable architecture, dark mode support, Storybook documentation, and scalable design patterns.<br><br>**Tech Stack:**<br>`React` `TypeScript` `TailwindCSS` `shadcn/ui` `Storybook` `Jest`<br><br>---<br><br>## 🔁 DevOps & Deployment Pipeline — Infrastructure<br><br>Containerized microservices architecture with CI/CD automation, GitHub Actions workflows, automated testing, reverse proxy configuration, and cloud deployment.<br><br>**Tech Stack:**<br>`Docker` `GitHub Actions` `AWS EC2` `Nginx` `PM2` `Jest`</p>
-
-###
-
-<p align="left"># 📐 Data Structures & Algorithms<br><br><table style="border-collapse: collapse; width: 100%;"><br><br><tr><br><td valign="top" width="50%"><br><br>## 🏗️ Core Data Structures<br><br><table style="border-collapse: collapse; width: 100%;"><br><tr style="background-color:#ffffff;"><br><th style="text-align:left; padding:8px;">Category</th><br><th style="text-align:left; padding:8px;">Structures</th><br></tr><br><br><tr style="background-color:#f5f5f5;"><br><td style="padding:8px;"><b>Linear</b></td><br><td style="padding:8px;">Array, Linked List, Stack, Queue, Deque</td><br></tr><br><br><tr style="background-color:#ffffff;"><br><td style="padding:8px;"><b>Trees</b></td><br><td style="padding:8px;">BST, AVL Tree, Heap, Trie, Segment Tree</td><br></tr><br><br><tr style="background-color:#f5f5f5;"><br><td style="padding:8px;"><b>Graphs</b></td><br><td style="padding:8px;">Adjacency List, Matrix, Weighted Graphs</td><br></tr><br><br><tr style="background-color:#ffffff;"><br><td style="padding:8px;"><b>Hashing</b></td><br><td style="padding:8px;">HashMap, HashSet, Collision Handling</td><br></tr><br><br><tr style="background-color:#f5f5f5;"><br><td style="padding:8px;"><b>Advanced</b></td><br><td style="padding:8px;">Monotonic Stack, LRU Cache, Union-Find</td><br></tr><br></table><br><br></td><br><br><td valign="top" width="50%"><br><br>## ⚡ Complexity Reference<br><br><table style="border-collapse: collapse; width: 100%;"><br><tr style="background-color:#ffffff;"><br><th style="text-align:left; padding:8px;">Algorithm</th><br><th style="text-align:left; padding:8px;">Time</th><br><th style="text-align:left; padding:8px;">Space</th><br></tr><br><br><tr style="background-color:#f5f5f5;"><br><td style="padding:8px;">Binary Search</td><br><td style="padding:8px;">O(log n)</td><br><td style="padding:8px;">O(1)</td><br></tr><br><br><tr style="background-color:#ffffff;"><br><td style="padding:8px;">Merge Sort</td><br><td style="padding:8px;">O(n log n)</td><br><td style="padding:8px;">O(n)</td><br></tr><br><br><tr style="background-color:#f5f5f5;"><br><td style="padding:8px;">Quick Sort</td><br><td style="padding:8px;">O(n log n) avg</td><br><td style="padding:8px;">O(log n)</td><br></tr><br><br><tr style="background-color:#ffffff;"><br><td style="padding:8px;">BFS / DFS</td><br><td style="padding:8px;">O(V + E)</td><br><td style="padding:8px;">O(V)</td><br></tr><br><br><tr style="background-color:#f5f5f5;"><br><td style="padding:8px;">Dijkstra</td><br><td style="padding:8px;">O(E log V)</td><br><td style="padding:8px;">O(V)</td><br></tr><br><br><tr style="background-color:#ffffff;"><br><td style="padding:8px;">HashMap Lookup</td><br><td style="padding:8px;">O(1) avg</td><br><td style="padding:8px;">O(n)</td><br></tr><br><br></table><br><br></td><br></tr><br></table><br><br>---<br><br>## 🎯 Problem-Solving Patterns<br><br><table style="border-collapse: collapse; width: 100%;"><br><br><tr style="background-color:#ffffff;"><br><th style="text-align:left; padding:8px;">Pattern</th><br><th style="text-align:left; padding:8px;">Use Cases</th><br></tr><br><br><tr style="background-color:#f5f5f5;"><br><td style="padding:8px;"><b>Two Pointers</b></td><br><td style="padding:8px;">Pair sum, palindrome checks, container problems</td><br></tr><br><br><tr style="background-color:#ffffff;"><br><td style="padding:8px;"><b>Sliding Window</b></td><br><td style="padding:8px;">Subarray/substring problems, max/min window</td><br></tr><br><br><tr style="background-color:#f5f5f5;"><br><td style="padding:8px;"><b>Binary Search</b></td><br><td style="padding:8px;">Search space problems, rotated arrays</td><br></tr><br><br><tr style="background-color:#ffffff;"><br><td style="padding:8px;"><b>Prefix Sum</b></td><br><td style="padding:8px;">Range queries, subarray sum problems</td><br></tr><br><br><tr style="background-color:#f5f5f5;"><br><td style="padding:8px;"><b>Tree Traversal</b></td><br><td style="padding:8px;">Inorder, Preorder, Postorder, BFS</td><br></tr><br><br><tr style="background-color:#ffffff;"><br><td style="padding:8px;"><b>Graph Algorithms</b></td><br><td style="padding:8px;">BFS, DFS, Topological Sort, Shortest Path</td><br></tr><br><br><tr style="background-color:#f5f5f5;"><br><td style="padding:8px;"><b>Dynamic Programming</b></td><br><td style="padding:8px;">Knapsack, LCS, LIS, Coin Change</td><br></tr><br><br><tr style="background-color:#ffffff;"><br><td style="padding:8px;"><b>Backtracking</b></td><br><td style="padding:8px;">Permutations, combinations, Sudoku</td><br></tr><br><br><tr style="background-color:#f5f5f5;"><br><td style="padding:8px;"><b>Greedy</b></td><br><td style="padding:8px;">Interval scheduling, optimization problems</td><br></tr><br><br><tr style="background-color:#ffffff;"><br><td style="padding:8px;"><b>Bit Manipulation</b></td><br><td style="padding:8px;">XOR tricks, subset generation</td><br></tr><br><br><tr style="background-color:#f5f5f5;"><br><td style="padding:8px;"><b>Divide & Conquer</b></td><br><td style="padding:8px;">Merge Sort, Quick Sort, recursion problems</td><br></tr><br><br></table><br><br><p align="center"><br><b>💡 Focus: Problem solving, clean code, scalable thinking & system design mindset.</b><br></p><br>```</p>
-
-###
-
-<p align="left">```html id="sysdesign1"<br># 🏗️ System Design<br><br>## 🔑 Core Pillars<br><br><table style="border-collapse: collapse; width: 100%;"><br><br><tr style="background-color:#ffffff;"><br><th style="text-align:left; padding:10px;">Pillar</th><br><th style="text-align:left; padding:10px;">Concepts</th><br></tr><br><br><tr style="background-color:#f5f5f5;"><br><td style="padding:10px;"><b>Scalability</b></td><br><td style="padding:10px;">Horizontal scaling, Load balancing, Sharding, CDN, Stateless services</td><br></tr><br><br><tr style="background-color:#ffffff;"><br><td style="padding:10px;"><b>Reliability</b></td><br><td style="padding:10px;">Circuit Breaker, Retry logic, Rate limiting, Health checks, Failover</td><br></tr><br><br><tr style="background-color:#f5f5f5;"><br><td style="padding:10px;"><b>Caching</b></td><br><td style="padding:10px;">Redis, Write-through / Write-back, Cache invalidation, LRU / LFU</td><br></tr><br><br><tr style="background-color:#ffffff;"><br><td style="padding:10px;"><b>Databases</b></td><br><td style="padding:10px;">SQL vs NoSQL, ACID vs BASE, Indexing, Replication, CAP Theorem</td><br></tr><br><br><tr style="background-color:#f5f5f5;"><br><td style="padding:10px;"><b>Messaging</b></td><br><td style="padding:10px;">Pub/Sub, Message queues (BullMQ), Event-driven, Webhooks</td><br></tr><br><br><tr style="background-color:#ffffff;"><br><td style="padding:10px;"><b>API Design</b></td><br><td style="padding:10px;">REST best practices, GraphQL, Versioning, Pagination, Idempotency</td><br></tr><br><br><tr style="background-color:#f5f5f5;"><br><td style="padding:10px;"><b>Security</b></td><br><td style="padding:10px;">JWT, OAuth 2.0, RBAC, HTTPS, Input validation, Rate limiting</td><br></tr><br><br><tr style="background-color:#ffffff;"><br><td style="padding:10px;"><b>Observability</b></td><br><td style="padding:10px;">Logging, Metrics, Distributed tracing, Alerting</td><br></tr><br><br></table><br>```</p>
-
-###
-
-<p align="left">```html id="arch1"<br># 🧠 Architecture & Design Patterns<br><br><div style="overflow-x: auto; white-space: nowrap; border: 1px solid #ddd; padding: 10px;"><br><br><table style="border-collapse: collapse; min-width: 900px;"><br><br><tr style="background-color:#ffffff;"><br><th style="text-align:left; padding:10px;">Pattern</th><br><th style="text-align:left; padding:10px;">Description</th><br></tr><br><br><tr style="background-color:#f5f5f5;"><br><td style="padding:10px;"><b>Clean Architecture</b></td><br><td style="padding:10px;">Separation of concerns, dependency inversion, independent layers</td><br></tr><br><br><tr style="background-color:#ffffff;"><br><td style="padding:10px;"><b>Repository Pattern</b></td><br><td style="padding:10px;">Abstracts data access layer from business logic</td><br></tr><br><br><tr style="background-color:#f5f5f5;"><br><td style="padding:10px;"><b>Service Layer</b></td><br><td style="padding:10px;">Encapsulates business logic separately from controllers</td><br></tr><br><br><tr style="background-color:#ffffff;"><br><td style="padding:10px;"><b>Factory Pattern</b></td><br><td style="padding:10px;">Handles object creation without exposing instantiation logic</td><br></tr><br><br><tr style="background-color:#f5f5f5;"><br><td style="padding:10px;"><b>Singleton</b></td><br><td style="padding:10px;">Ensures single instance (DB connections, configs)</td><br></tr><br><br><tr style="background-color:#ffffff;"><br><td style="padding:10px;"><b>Observer / Event Bus</b></td><br><td style="padding:10px;">Decoupled communication between modules via events</td><br></tr><br><br><tr style="background-color:#f5f5f5;"><br><td style="padding:10px;"><b>Middleware Pattern</b></td><br><td style="padding:10px;">Handles cross-cutting concerns like auth, logging, validation</td><br></tr><br><br><tr style="background-color:#ffffff;"><br><td style="padding:10px;"><b>Dependency Injection</b></td><br><td style="padding:10px;">Improves testability and loose coupling</td><br></tr><br><br><tr style="background-color:#f5f5f5;"><br><td style="padding:10px;"><b>CQRS</b></td><br><td style="padding:10px;">Separates read and write operations for scalability</td><br></tr><br><br><tr style="background-color:#ffffff;"><br><td style="padding:10px;"><b>Event Sourcing</b></td><br><td style="padding:10px;">Stores state changes as events for audit & replay</td><br></tr><br><br></table><br><br></div><br>```</p>
-
-###
-
-<p align="left">```html id="arch2"<br># 🧠 Architecture & Design Patterns<br><br><div style="overflow-x:auto; white-space:nowrap; border:1px solid #ddd; padding:10px;"><br><br><table style="border-collapse: collapse; min-width: 900px;"><br><br><tr style="background-color:#ffffff;"><br><th style="text-align:left; padding:10px;">Pattern</th><br><th style="text-align:left; padding:10px;">Description</th><br></tr><br><br><tr style="background-color:#f5f5f5;"><br><td style="padding:10px;"><b style="color:red;">Clean Architecture</b></td><br><td style="padding:10px; color:black;">Separation of concerns, dependency inversion, layered architecture</td><br></tr><br><br><tr style="background-color:#ffffff;"><br><td style="padding:10px;"><b style="color:red;">Repository Pattern</b></td><br><td style="padding:10px; color:black;">Abstracts data access layer from business logic</td><br></tr><br><br><tr style="background-color:#f5f5f5;"><br><td style="padding:10px;"><b style="color:red;">Service Layer</b></td><br><td style="padding:10px; color:black;">Encapsulates business logic separately from controllers</td><br></tr><br><br><tr style="background-color:#ffffff;"><br><td style="padding:10px;"><b style="color:red;">Factory Pattern</b></td><br><td style="padding:10px; color:black;">Handles object creation without exposing instantiation logic</td><br></tr><br><br><tr style="background-color:#f5f5f5;"><br><td style="padding:10px;"><b style="color:red;">Singleton</b></td><br><td style="padding:10px; color:black;">Ensures a single instance (DB connections, config services)</td><br></tr><br><br><tr style="background-color:#ffffff;"><br><td style="padding:10px;"><b style="color:red;">Observer / Event Bus</b></td><br><td style="padding:10px; color:black;">Decoupled communication between modules via events</td><br></tr><br><br><tr style="background-color:#f5f5f5;"><br><td style="padding:10px;"><b style="color:red;">Middleware Pattern</b></td><br><td style="padding:10px; color:black;">Handles cross-cutting concerns like auth, logging, validation</td><br></tr><br><br><tr style="background-color:#ffffff;"><br><td style="padding:10px;"><b style="color:red;">Dependency Injection</b></td><br><td style="padding:10px; color:black;">Improves testability and loose coupling between modules</td><br></tr><br><br><tr style="background-color:#f5f5f5;"><br><td style="padding:10px;"><b style="color:red;">CQRS</b></td><br><td style="padding:10px; color:black;">Separates read and write models for scalability</td><br></tr><br><br><tr style="background-color:#ffffff;"><br><td style="padding:10px;"><b style="color:red;">Event Sourcing</b></td><br><td style="padding:10px; color:black;">Stores state changes as events for audit and replay</td><br></tr><br><br></table><br><br></div><br>```</p>
-
-###
-
-<p align="left">```html id="arch3"<br># 🧠 Architecture & Design Patterns<br><br><div style="overflow-x:auto; white-space:nowrap; border:1px solid #ddd; padding:10px;"><br><br><table style="border-collapse: collapse; min-width: 1000px;"><br><br><tr style="background-color:#ffffff;"><br><th style="text-align:left; padding:10px;">Pattern</th><br><th style="text-align:left; padding:10px;">Description</th><br></tr><br><br><tr style="background-color:#f5f5f5;"><br><td style="padding:10px;"><b>Clean Architecture</b></td><br><td style="padding:10px;">Separation of concerns, dependency inversion, layered architecture</td><br></tr><br><br><tr style="background-color:#ffffff;"><br><td style="padding:10px;"><b>Repository Pattern</b></td><br><td style="padding:10px;">Abstracts data access layer from business logic</td><br></tr><br><br><tr style="background-color:#f5f5f5;"><br><td style="padding:10px;"><b>Service Layer</b></td><br><td style="padding:10px;">Encapsulates business logic separately from controllers</td><br></tr><br><br><tr style="background-color:#ffffff;"><br><td style="padding:10px;"><b>Factory Pattern</b></td><br><td style="padding:10px;">Handles object creation without exposing instantiation logic</td><br></tr><br><br><tr style="background-color:#f5f5f5;"><br><td style="padding:10px;"><b>Singleton</b></td><br><td style="padding:10px;">Ensures single instance (DB connections, config services)</td><br></tr><br><br><tr style="background-color:#ffffff;"><br><td style="padding:10px;"><b>Observer / Event Bus</b></td><br><td style="padding:10px;">Decoupled communication between modules via events</td><br></tr><br><br><tr style="background-color:#f5f5f5;"><br><td style="padding:10px;"><b>Middleware Pattern</b></td><br><td style="padding:10px;">Cross-cutting concerns like auth, logging, validation</td><br></tr><br><br><tr style="background-color:#ffffff;"><br><td style="padding:10px;"><b>Dependency Injection</b></td><br><td style="padding:10px;">Loose coupling and better testability</td><br></tr><br><br><tr style="background-color:#f5f5f5;"><br><td style="padding:10px;"><b>CQRS</b></td><br><td style="padding:10px;">Separation of read and write models for scalability</td><br></tr><br><br><tr style="background-color:#ffffff;"><br><td style="padding:10px;"><b>Event Sourcing</b></td><br><td style="padding:10px;">Stores state changes as events for audit and replay</td><br></tr><br><br></table><br><br></div><br>```</p>
-
-###
-
-<p align="left">## ⚡ Personal Brand<br><br>Building scalable and production-ready software systems with a strong focus on clean code, modern architecture, and performance-driven design. I enjoy transforming complex problems into simple, efficient solutions—from designing robust APIs to working with distributed systems and scalable backend architectures. My goal is to create software that is not only functional but also maintainable, secure, and impactful in real-world applications.<br><br>⭐ From Wahab Khan · Found this useful?</p>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/wahab-khan-203413347?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<p align="center">
+  <a href="mailto:wahabkhan9605@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/share/1FXfjuJiRY/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/wahab-khan-203413347?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/abdul_wahab_msngal?igsh=MXZsb3p6djZiMnI5eA==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  &nbsp;
+  <a href="https://https://github.com/wahabkhan-890">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://wa.me/qr/52BPJZOM6YOTJ1" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  &nbsp;
+  <a href="https://https://www.instagram.com/abdul_wahab_msngal?igsh=MXZsb3p6djZiMnI5eA==">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-</div>
+  &nbsp;
+  <a href="https://www.facebook.com/share/1FXfjuJiRY/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=wahabkhan-890.wahabkhan-890&"  />
-</div>
+---
 
-###
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_ES2024-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+
+### 🗄️ Databases & Storage
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+
+### 🧪 Testing & Quality
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🔧 Tools & Languages
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 E-Commerce Platform — Full-Stack
+> Scalable MERN e-commerce with real-time inventory, Stripe payments, admin dashboard & role-based access control.
+
+`React` `Node.js` `MongoDB` `Redux Toolkit` `Stripe` `JWT` `TailwindCSS`
+
+---
+
+### 🔐 Auth & API System — Backend
+> Production-ready authentication with JWT, refresh tokens, RBAC, OAuth 2.0, Redis caching & rate limiting.
+
+`Express` `PostgreSQL` `Redis` `JWT` `OAuth 2.0` `Docker` `Jest`
+
+---
+
+### ⚡ Next.js SaaS Application — Full-Stack
+> App Router, Server Components, ISR/SSG, tRPC, Prisma ORM & Stripe subscription billing.
+
+`Next.js 14` `TypeScript` `Prisma` `PostgreSQL` `tRPC` `Stripe` `Vercel`
+
+---
+
+### 💬 Real-Time Chat App — Full-Stack
+> WebSocket-powered chat with rooms, presence detection, file sharing & Redis message persistence.
+
+`Socket.io` `React` `Node.js` `MongoDB` `Redis` `JWT`
+
+---
+
+### 📦 Component Library — Frontend
+> Accessible, fully typed React component library with dark mode, Storybook documentation & test coverage.
+
+`React` `TypeScript` `TailwindCSS` `shadcn/ui` `Storybook` `Jest`
+
+---
+
+### 🔁 DevOps Pipeline — Infrastructure
+> Dockerized Node.js microservices with GitHub Actions CI/CD, automated testing & AWS deployment.
+
+`Docker` `GitHub Actions` `AWS EC2` `Nginx` `PM2` `Jest`
+
+---
+
+## 📐 Data Structures & Algorithms
+
+### 🏗️ Core Data Structures
+
+| Category | Structures |
+|---|---|
+| **Linear** | Array, Linked List (Singly / Doubly), Stack, Queue, Deque |
+| **Trees** | BST, AVL Tree, Red-Black Tree, Heap (Min/Max), Trie, Segment Tree |
+| **Graphs** | Adjacency List / Matrix, Weighted & Directed Graphs |
+| **Hashing** | HashMap, HashSet, Collision Handling (Chaining, Open Addressing) |
+| **Advanced** | Monotonic Stack, LRU Cache, Disjoint Set (Union-Find) |
+
+### ⚡ Algorithm Complexity Reference
+
+| Algorithm | Best | Average | Worst | Space |
+|---|---|---|---|---|
+| Binary Search | O(1) | O(log n) | O(log n) | O(1) |
+| Merge Sort | O(n log n) | O(n log n) | O(n log n) | O(n) |
+| Quick Sort | O(n log n) | O(n log n) | O(n²) | O(log n) |
+| Heap Sort | O(n log n) | O(n log n) | O(n log n) | O(1) |
+| BFS / DFS | O(V+E) | O(V+E) | O(V+E) | O(V) |
+| Dijkstra | O(E log V) | O(E log V) | O(E log V) | O(V) |
+| Dynamic Programming | O(n) | O(n²) | O(n³) | O(n) |
+| HashMap Lookup | O(1) | O(1) | O(n) | O(n) |
+
+### 🎯 Problem-Solving Patterns
+
+```
+Two Pointers       →  Pair sums, palindrome checks, container problems
+Sliding Window     →  Subarray / substring, max/min in window
+Fast & Slow Ptr    →  Cycle detection, middle of linked list
+Binary Search      →  Search in rotated array, first/last position
+Prefix Sum         →  Range queries, subarray sum equals k
+Tree Traversal     →  Inorder, Preorder, Postorder, Level-order (BFS)
+Graph Algorithms   →  BFS, DFS, Topological Sort, Dijkstra, Union-Find
+Dynamic Prog.      →  Knapsack, LCS, LIS, Coin Change, Edit Distance
+Backtracking       →  Permutations, Combinations, N-Queens, Sudoku
+Greedy             →  Activity Selection, Interval Scheduling, Huffman
+Bit Manipulation   →  XOR tricks, power of two, subset enumeration
+Divide & Conquer   →  Merge sort, binary search, Karatsuba
+```
+
+---
+
+## 🏗️ System Design
+
+### 🔑 Core Pillars
+
+| Pillar | Concepts |
+|---|---|
+| **Scalability** | Horizontal scaling, Load balancing, Sharding, CDN, Stateless services |
+| **Reliability** | Circuit Breaker, Retry logic, Rate limiting, Health checks, Failover |
+| **Caching** | Redis, Write-through / Write-back, Cache invalidation, LRU / LFU |
+| **Databases** | SQL vs NoSQL, ACID vs BASE, Indexing, Replication, CAP Theorem |
+| **Messaging** | Pub/Sub, Message queues (BullMQ), Event-driven, Webhooks |
+| **API Design** | REST best practices, GraphQL, Versioning, Pagination, Idempotency |
+| **Security** | JWT, OAuth 2.0, RBAC, HTTPS, Input validation, Rate limiting |
+| **Observability** | Logging, Metrics, Distributed tracing, Alerting |
+
+### 🧩 Architecture & Design Patterns
+
+```
+Clean Architecture     →  Separation of concerns, dependency inversion
+Repository Pattern     →  Abstract data access layer
+Service Layer          →  Business logic isolation
+Factory Pattern        →  Object creation abstraction
+Singleton              →  Single instance services (DB connections)
+Observer / Event Bus   →  Decoupled communication between modules
+Middleware Pattern     →  Cross-cutting concerns (auth, logging, validation)
+Dependency Injection   →  Testable, loosely coupled code
+CQRS                   →  Separate read and write models
+Event Sourcing         →  Audit trail, time-travel debugging
+```
+
+### ⚙️ SOLID Principles in Practice
+
+```typescript
+S → Single Responsibility  —  Each class / function does ONE thing
+O → Open / Closed          —  Open for extension, closed for modification
+L → Liskov Substitution    —  Subtypes must be substitutable for base types
+I → Interface Segregation  —  No client should depend on unused methods
+D → Dependency Inversion   —  Depend on abstractions, not concretions
+```
+
+## 🎯 Growth Roadmap
+
+```
+✅  MERN Stack Mastery          →  MongoDB · Express · React · Node.js (production-level)
+✅  TypeScript & Next.js 14     →  App Router, Server Components, advanced patterns
+✅  Clean Architecture & SOLID  →  Repository, Service Layer, DI, design patterns
+🔄  System Design               →  Distributed systems, microservices, cloud-native
+🔄  DevOps & Cloud (AWS)        →  Docker, Kubernetes, CI/CD, infrastructure as code
+🔄  DSA & LeetCode Patterns     →  100+ problems, all major patterns
+⏳  FAANG Interview Prep        →  System design interviews, behavioral rounds
+⏳  Open Source Contributions   →  React, Next.js or major JS ecosystem projects
+
+```
+
+---
+
+## ⚡ Personal Brand
+
+> *"Building scalable and production-ready software systems with a strong focus on clean code, modern architecture, and performance-driven design. I enjoy transforming complex problems into simple, efficient solutions—from designing robust APIs to working with distributed systems and scalable backend architectures. My goal is to create software that is not only functional but also maintainable, secure, and impactful in real-world applications.."*
+
+---
+
+<p align="center">
+  ⭐ <strong>From Abdul Wahab Khan Mangal</strong> 
+</p>
